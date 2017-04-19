@@ -1,3 +1,15 @@
+h1 {
+    font-family: Arial;
+}
+/*селектор тэга h1*/
+
+.brdr {
+    border: dotted gray;
+    background-color: gainsboro;
+    padding: 4px;
+}
+/*селектор класса для тега article*/
+
 li ul {
     list-style-type: disc;
 }
